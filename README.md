@@ -5,3 +5,6 @@ Employee phone directory
 
 * `npm install`
 * `npm run serve`
+
+## related
+* [phone-directory-data-parser](https://github.com/CityOfPhiladelphia/phone-directory-data-parser)
